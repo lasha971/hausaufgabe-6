@@ -4,6 +4,7 @@ html,body{
 }
 body{
 	padding: 0 8% 8% 3%;
+	box-sizing: border-box;
 }
 .text{
 	text-align: center;
